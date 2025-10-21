@@ -1,0 +1,14 @@
+html {
+    background-color:aliceblue;
+}
+
+.wrapper {
+    background-color:bisque;
+    max-width: 600px;
+    margin: auto;
+    margin-top: 100%;
+}
+
+.class {
+    padding: 40px; 
+}
